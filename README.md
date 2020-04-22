@@ -32,10 +32,10 @@ GSM is connected to Atmega via MAX 232.
 ## SMS: Using AT Commands
 - Two message modes: PDU and Text
 - AT+CMGF=1 //Text Mode
-OK
 
+OK
 AT+CMGS=“9559753551"
-> Hello World<Ctrl>+<Z> 
+> Hello World<Ctrl>+<Z>
 +CMGS: 44
 OK
 

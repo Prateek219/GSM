@@ -9,13 +9,13 @@ The above program can be found on the following link:
 http://www.hilgraeve.com/hyperterminal/
 
 GSM modem is controlled using AT commands.
+
 __AT COMMANDS__
 
 These AT commands have the format of “AT<x><n>”, where “<x>”is the
   
 command, and “<n>”is/are the argument(s) for that command.
 e.g.
-  
 ATD 1234567890; //calls a number
 
 Entire AT command set can be accessed from:

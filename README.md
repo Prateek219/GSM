@@ -26,6 +26,10 @@ http://www.developer.nokia.com/Community/Wiki/AT_Commands
  __CONNECTIONS__
 GSM is connected to Atmega via MAX 232.
 
+![Screenshot (126)](https://user-images.githubusercontent.com/64007722/79952526-31958780-8498-11ea-9a87-18c87a4b4218.png)
+
+
+![Screenshot (127)](https://user-images.githubusercontent.com/64007722/79952546-3823ff00-8498-11ea-8fa7-66fd72edc787.png)
 
 
 

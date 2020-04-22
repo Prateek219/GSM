@@ -1,6 +1,9 @@
 # GSM : Global System for Mobile Communication
 This tutorial describes the way to interface GSM modem with a
 microcontroller(Atmega16/32).
+
+![Screenshot (125)](https://user-images.githubusercontent.com/64007722/79952434-09a62400-8498-11ea-8383-39f443ca4d33.png)
+
 ## COMPUTER INTERFACE
 Hyperterminal, a terminal emulation program is used to connect GSM.
 

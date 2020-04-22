@@ -35,8 +35,11 @@ GSM is connected to Atmega via MAX 232.
 
 OK
 AT+CMGS=“9559753551"
+
 >Hello World<Ctrl>+<Z>
+  
 +CMGS: 44
+
 OK
 
 
